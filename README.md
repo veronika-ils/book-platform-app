@@ -1,4 +1,4 @@
-# Demo verzija od mojot proekt za citanje i organiziranje na knigi
+# Demo verzija od mojot proekt za organiziranje na procitani knigi 
 
 ## Project setup
 ```
