@@ -1,4 +1,4 @@
-# Demo verzija od mojot proekt za organiziranje na procitani knigi 
+# Демо верзија од мојот проект за организирање на прочитани книги, НЕ Е РЕСПОНЗИВЕН
 
 ## Project setup
 ```
