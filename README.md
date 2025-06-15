@@ -1,4 +1,5 @@
-# Демо верзија од мојот проект за организирање на прочитани книги, НЕ Е РЕСПОНЗИВЕН
+# A DEMO version of my application for organizing read,still reading and liked books
+##**Not responsive
 
 ## Project setup
 ```
