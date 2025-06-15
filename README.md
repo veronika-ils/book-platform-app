@@ -1,5 +1,5 @@
 # A DEMO version of my application for organizing read,still reading and liked books
-##**Not responsive
+**Not responsive
 
 ## Project setup
 ```
