@@ -1,5 +1,6 @@
-# A DEMO version of my application for organizing read,still reading and liked books
-**Not responsive
+BookPlatform is a demo web application designed to help you organize and track your reading journey. With a simple and intuitive interface, you can keep all your books in one place — whether you’ve already read them, you’re still reading, or you’ve marked them as liked.
+
+⚠️ Note: This is a demo version and is currently not responsive (optimized for desktop use only).
 
 ## Project setup
 ```
